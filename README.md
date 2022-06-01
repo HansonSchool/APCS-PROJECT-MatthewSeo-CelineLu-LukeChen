@@ -1,3 +1,5 @@
 # APCS-PROJECT
 
-Matthew Seo, Celine Lu, Luke Chen
+Name: Dogs out!
+
+By Matthew Seo, Celine Lu, Luke Chen
